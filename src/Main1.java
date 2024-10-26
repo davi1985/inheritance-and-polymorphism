@@ -4,7 +4,7 @@ import entities.SavingsAccount;
 
 public class Main1 {
     public static void main(String[] args) {
-        Account account = new Account(1001, "John", 0.0);
+//        Account account = new Account(1001, "John", 0.0);
         BusinessAccount businessAccount = new BusinessAccount(1002, "Mary", 0.0, 500.0);
 
         // UP CASTING
